@@ -1,4 +1,4 @@
 PicJam
 ======
 
-Simple C# library to optimize JPEG's, lossless.
+Simple C# library to do lossless optimization of JPEG's. Uses jpegtran.exe and EXIF removal.
